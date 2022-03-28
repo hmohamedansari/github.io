@@ -822,8 +822,7 @@
 
   .col-lg-6 {
     flex: 0 0 auto;
-    width: 65%;
-    margin: 0 auto;
+    width: 50%;
   }
 
   .col-lg-7 {
